@@ -11,5 +11,5 @@ let imc = peso/(altura*altura);
 let anoNascimento = 2022 - idade;
 
 console.log("IMC:",imc,"\nAno de Nascimento:",anoNascimento);
-console.log(`Nome: ${Gordon} \n Idade: ${idade}`) // so funciona se usar crase ( ` )
+console.log(`Nome: ${nome} \nIdade: ${idade}`) // so funciona se usar crase ( ` )
 
